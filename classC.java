@@ -7,5 +7,9 @@ public void MC1(){
 }
 
 public void MC2(){
-	System.out.println("MC2);
+	System.out.println("MC2");
+}
+
+public void MC3(){
+	System.out.println("MC3");
 }
